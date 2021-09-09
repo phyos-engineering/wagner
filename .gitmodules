@@ -1,0 +1,3 @@
+[submodule "lib/rabassa"]
+	path = lib/rabassa
+	url = git://github.com/phyos-engineering/rabassa.git
